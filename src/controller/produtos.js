@@ -6,7 +6,7 @@ const listaDeProdutos = async (req, res) => {
     return res.status(200).json(produtos);
 };
 
-const detalhamentoProduto = async (req, res) => {
+const detalharProduto = async (req, res) => {
     const idProduto = Number(req.params.idProduto);
 
     if (isNaN(idProduto)) {
@@ -83,6 +83,6 @@ const calcularFrete = async (req, res) => {
 
 module.exports = {
     listaDeProdutos,
-    detalhamentoProduto,
+    detalharProduto,
     calcularFrete
 }
