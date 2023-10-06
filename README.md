@@ -14,6 +14,22 @@ Certifique-se de ter Node.js, npm e a API Insominia instalados em seu sistema an
 
 ## Requisições HTTP API Insominia
 
-#Listar Produtos
+- Listar Produtos
+
+<img width="800" alt="listarProdutos" src="https://github.com/lucastadeu0212/API-Calculo-de-Frete-/assets/134237241/a3083124-d61b-4cea-b751-64edb2f0c067">
+
+- Detalhar Produto
+
+<img width="800" alt="Detalhar Produto" src="https://github.com/lucastadeu0212/API-Calculo-de-Frete-/assets/134237241/c1ed3447-5aa4-482a-aac3-78b2e3e95937">
+
+- Calcular Frete
+
+<img width="800" alt="Calcular Frete" src="https://github.com/lucastadeu0212/API-Calculo-de-Frete-/assets/134237241/710d729f-4664-4d6f-93ce-a181c901e9f0">
+
+
+
+
+  ## Obrigado Pela visita!
+
 
 
