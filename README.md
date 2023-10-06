@@ -8,9 +8,9 @@ Certifique-se de ter Node.js e a API Insominia instalados em seu sistema antes d
 
 ## Instalação: 
 - Clone este repositório em sua máquina local: git clone git@github.com:lucastadeu0212/API-Calculo-de-Frete-.git
-- Inicie a biblioteca npm: npm init -y
-- Instale o express: npm install express
-- Execute o servidor: node --watch ./src/index.js (Nesse exemplo eu deu o caminho dá página que executa o servidor express, que no ex é: index.js)
+- Inicie a biblioteca npm no terminal: npm init -y
+- Instale o express pelo terminal: npm install express
+- Execute o servidor no terminal: node --watch ./src/index.js (Nesse exemplo eu deu o caminho dá página que executa o servidor express, que no ex é: index.js)
 
 ## Requisições HTTP API Insominia
 
