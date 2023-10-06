@@ -4,7 +4,7 @@ Este projeto é uma API desenvolvida em Node.js com Express que fornece recursos
 
 ## Requisitos:
 
-Certifique-se de ter Node.js, npm e a API Insominia instalados em seu sistema antes de executar este aplicativo. Você pode baixar o Node.js no [site oficial](https://nodejs.org/) e o Insominia no [site oficial](https://insomnia.rest/download).
+Certifique-se de ter Node.js e a API Insominia instalados em seu sistema antes de executar este aplicativo. Você pode baixar o Node.js no [site oficial](https://nodejs.org/) e o Insominia no [site oficial](https://insomnia.rest/download).
 
 ## Instalação: 
 - Clone este repositório em sua máquina local: git clone git@github.com:lucastadeu0212/API-Calculo-de-Frete-.git
